@@ -1,22 +1,8 @@
 [
     {
-        "username": "admin",
-        "password": "admin123"
-    },
-    {
-        "username": "tes",
-        "password": "tes123"
-    },
-    {
-        "username": "user1",
-        "password": "user1123"
-    },
-    {
-        "username": "user2",
-        "password": "user2123"
-    },
-    {
-        "username": "user3",
-        "password": "user3123"
+    "username": "iky",
+    "Ip": "82.223.28.146",
+    "Access": true,
+    "Added on": "1"
     }
 ]
